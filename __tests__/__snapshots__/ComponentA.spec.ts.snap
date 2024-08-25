@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ComponentA functions > should render correctly 1`] = `
+"<div data-v-38e6153d="">
+  <h2 data-v-38e6153d="">Component A</h2>
+  <p data-v-38e6153d="">Composant dynamik et KeepAlive. (A)</p>
+  <div data-v-38e6153d="" class="content">
+    <p data-v-38e6153d="">Counter : 0</p><button data-v-38e6153d="" style="margin-right: 1rem;" data-type="increment">Increment</button><button data-v-38e6153d="" data-type="decrement">Decrement</button>
+  </div>
+</div>"
+`;

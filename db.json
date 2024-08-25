@@ -1,0 +1,56 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "a todo",
+      "userId": null
+    },
+    {
+      "id": "2",
+      "title": "another todo",
+      "userId": null
+    },
+    {
+      "id": "3",
+      "title": "Dindon",
+      "userId": null
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "3",
+      "title": "Dindon",
+      "views": 300
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": "2",
+      "name": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": "3",
+      "name": "",
+      "email": "",
+      "phone": ""
+    }
+  ]
+}

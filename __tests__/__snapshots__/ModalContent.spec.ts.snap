@@ -1,0 +1,15 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ModalContent functions > should render correctly 1`] = `
+"<div data-v-3a899d1d="">
+  <h2 data-v-3a899d1d=""></h2>
+  <p data-v-3a899d1d=""></p><button data-v-3a899d1d="" data-type="close">Close</button>
+</div>"
+`;
+
+exports[`ModalContent props > should render correctly 1`] = `
+"<div data-v-3a899d1d="">
+  <h2 data-v-3a899d1d="">Test title</h2>
+  <p data-v-3a899d1d="">Test content</p><button data-v-3a899d1d="" data-type="close">Close</button>
+</div>"
+`;
